@@ -17,5 +17,5 @@ h1{
     background-color: hsl(200,50%,70%);
 }
 .green{
-    background: linear-gradient(90deg,rgb(0,255,0)75%,rgb(50, 50, 255)10%,rgb(255,0,0)15%);
+    background: linear-gradient(90deg,#00FF00,#0000FF;
 }
