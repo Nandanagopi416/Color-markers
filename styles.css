@@ -27,6 +27,9 @@ h1{
 .cap{
     width: 60px;
     height: 25px;
+    border-left-width: 10px;
+    border-left-style: dashed;
+    border-left-color: black;
 }
 .cap,.sleeve{
     display: inline-block;
