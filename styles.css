@@ -12,12 +12,15 @@ h1{
 }
 .red{
     background: linear-gradient(180deg,rgb(122,74,14)0%,rgb(245,62,113)50%,rgb(162,27,27)100%);
+    box-shadow: 5px 5px red;
 }
 .green{
     background: linear-gradient(#55680D, #71F53E,#116C31);
+    box-shadow: 5px 5px 5px green;
 }
 .blue{
     background: linear-gradient(hsl(186,76%,16%),hsl(223,90%,60%),hsl(240,56%,42%));
+    box-shadow: 0px 0px 0px 5px blue;
 }
 .sleeve{
     width: 110px;
